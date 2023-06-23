@@ -11,7 +11,7 @@ The goal of this project is to explore a dataset of individuals with thyroid dis
 
 ## Data
 
-The data is sourced from the following Kaggle link:
+The data is sourced from [Kaggle](https://www.kaggle.com/datasets/zhonglifr/thyroid-disease-unsupervised-anomaly-detection)
 
 
 
